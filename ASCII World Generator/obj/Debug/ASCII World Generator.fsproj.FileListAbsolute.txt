@@ -1,0 +1,13 @@
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.exe.config
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.XML
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.exe
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.pdb
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\FSharp.Core.dll
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\FSharp.Core.xml
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\obj\Debug\ASCII World Generator.fsprojResolveAssemblyReference.cache
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\obj\Debug\ASCII_World_Generator.exe
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\obj\Debug\ASCII_World_Generator.pdb
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.dll
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.GLControl.dll
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.xml
+F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.GLControl.xml
