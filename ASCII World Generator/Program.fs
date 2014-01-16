@@ -4,10 +4,11 @@ open System.Windows.Forms
 //open Window
 open Fractals
 open Graphics
+open _2DGraphics
 
 open OpenTK
 
-(new Graphics ()).Run ()
+//(new Graphics ()).Run ()
 
-//Application.Run (new Window ())
+Application.Run (new Window ())
 

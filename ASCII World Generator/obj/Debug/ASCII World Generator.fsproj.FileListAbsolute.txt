@@ -11,3 +11,14 @@ F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.dl
 F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.GLControl.dll
 F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.xml
 F:\.NET Problems\ASCII World Generator\ASCII World Generator\bin\Debug\OpenTK.GLControl.xml
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.exe.config
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.XML
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.exe
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\ASCII_World_Generator.pdb
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\FSharp.Core.dll
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\FSharp.Core.xml
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\OpenTK.xml
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\bin\Debug\OpenTK.GLControl.xml
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\obj\Debug\ASCII World Generator.fsprojResolveAssemblyReference.cache
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\obj\Debug\ASCII_World_Generator.exe
+C:\Users\John Herman\Desktop\Programming\ASCII-World-Generator\ASCII World Generator\obj\Debug\ASCII_World_Generator.pdb

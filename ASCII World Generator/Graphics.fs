@@ -14,7 +14,7 @@ type Graphics () =
     inherit GameWindow (640, 480, GraphicsMode.Default, "WorldView")
 
     ///roughness factor, lower is more rough, 0.45 to 0.65
-    let H = 0.70
+    let H = 0.90
     ///how deep the recursive terrain generation goes, higher number means more detail
     let depth = 7
     ///range of random values possible, in +/-

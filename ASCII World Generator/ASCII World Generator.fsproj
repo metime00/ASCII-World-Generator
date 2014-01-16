@@ -58,6 +58,7 @@
     <Compile Include="Erosion.fs" />
     <Compile Include="Fractals.fs" />
     <Compile Include="Graphics.fs" />
+    <Compile Include="2DGraphics.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>
